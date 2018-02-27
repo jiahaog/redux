@@ -1,0 +1,6 @@
+[package]
+name = "redux"
+version = "0.1.0"
+authors = ["Goh Jia Hao <jiahaog@gmail.com>"]
+
+[dependencies]
